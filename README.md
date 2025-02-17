@@ -1,10 +1,20 @@
-<!-- 🚀 Stylish GitHub Profile README -->
-
 <h1 align="center">👋 Hey, I'm Ashis Ranjan Nayak!</h1>
 <h3 align="center">🚀 MERN Stack Developer | 🎨 UI/UX Enthusiast | 💡 Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Passionate+Problem+Solver;Tech+Enthusiast;Always+Learning!+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashis-ranjan-nayak/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ashisranjannayak2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ashis2002">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -14,6 +24,24 @@
 - 🌱 Learning **Advanced Backend Optimization & System Architecture**.
 - 💡 Passionate about **problem-solving, clean code & scalable systems**.
 - ⚡ Fun fact: **I turn ☕ into ⚡ code**.
+
+---
+
+## 💼 **Work Experience**
+### 👨‍💻 **Full-Stack Web Development Intern**  
+**📍 WebBocket Software Pvt. Ltd.** (March - May 2024)  
+- 🔹 Developed and maintained **full-stack applications** using **MERN STACK**.  
+- 🔹 Designed and implemented **REST APIs**.  
+- 🔹 Integrated **third-party APIs** and handled **user authentication (JWT)**.  
+- 🔹 Worked with **Git and GitHub** for version control.  
+
+### 🎨 **Web Designer Intern**  
+**📍 Blazeminds Technology Services Pvt. Ltd.** (Nov 2023 – Jan 2024)  
+- 🔹 Designed and prototyped **Web applications** using **Figma IDE**.  
+
+### 🚀 **Advance Java Intern**  
+**📍 Odisha Computer Application Centre** (Jun – Jul 2023)  
+- 🔹 Developed **Java applications** using **NetBeans IDE**.  
 
 ---
 
@@ -80,6 +108,7 @@
 ✅ **GitHub Stats & Streaks** (`github-readme-stats`, `github-readme-streak-stats`).  
 ✅ **GitHub Achievements** (`github-profile-trophy`) for milestones.  
 ✅ **Stylish Social Media Badges** for easy connection.  
+✅ **Work Experience Section** to highlight **internships & jobs**.  
 
-This will make your **GitHub profile stand out!** 🚀🔥  
+🚀 **Now your GitHub profile looks more professional!** 🚀🔥  
 Let me know if you need any modifications! 😎  
