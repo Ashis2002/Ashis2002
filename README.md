@@ -59,13 +59,6 @@
 
 ---
 
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashis2002&theme=radical&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
 ## 📌 **Top Languages**
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashis2002&layout=compact&theme=radical" width="48%"/>
